@@ -4,8 +4,8 @@ using namespace std;
 int main(){
     int a=4;
     int b=6;
-    int c=a-b;
-    cout<<"Diff is " <<c<<endl;
+    int c=a*b;
+    cout<<"Mult is " <<c<<endl;
     return 0;
 }
 
